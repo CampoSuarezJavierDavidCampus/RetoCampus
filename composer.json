@@ -1,0 +1,19 @@
+{
+  "name": "apolm01-027/reto-campus",
+  "description": "prueba",
+  "autoload": {
+    "psr-4": {
+      "App\\": "./api",
+      "Config\\": "./config",
+      "Controllers\\": "./controllers",
+      "Models\\": "./models"
+    }
+  },
+  "authors": [
+    {
+      "name": "CampoSuarezJavierDavidCampus",
+      "email": "campo.javier1502@gmail.com"
+    }
+  ],
+  "require": {}
+}
